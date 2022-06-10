@@ -35,7 +35,7 @@ To get a local copy up and running, follow these simple steps:
 
 # Live Demo
 
-https://worashf.github.io/todo-list/dist/
+https://worashf.github.io/energy-page/
 
 # Show your support
 
