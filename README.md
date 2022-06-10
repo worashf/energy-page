@@ -1,7 +1,5 @@
 # energy-page
 
-# todo-list
-
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 This project is designed for testing secure web page deployment in github page.
